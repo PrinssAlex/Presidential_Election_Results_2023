@@ -1,6 +1,6 @@
 
 
-![project_image]("project_image.jpg")
+![project_image](project_image.jpg)
 
 In the beginning...
 
